@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" width="480" height="270" style="border-radius:40%"  frameBorder="0" class="giphy-embed" alt="img"/>
+<img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" width="480" height="270" style=" border-radius:50%"  frameBorder="0" class="giphy-embed" alt="img"/>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
