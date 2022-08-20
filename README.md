@@ -1,7 +1,5 @@
 
-  <img border-radius='50' align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Img" width="270">
-
-
+  <img  align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Img" height="200" width="200">
 
 <h2 align="left">🛠 Technologies and Tools 🛠</h2>
 
