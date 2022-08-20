@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/RMwgs5kZqkRyhF24KK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SeekingBlueRecords-lofi-hiyo-seekingblue-RMwgs5kZqkRyhF24KK">via GIPHY</a></p>
+<img src="https://giphy.com/embed/RMwgs5kZqkRyhF24KK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SeekingBlueRecords-lofi-hiyo-seekingblue-RMwgs5kZqkRyhF24KK"/>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
