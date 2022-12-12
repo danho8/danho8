@@ -1,6 +1,6 @@
-
-  <img  align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Img" height="200" width="200">
-
+<div style="border-radius:50%">
+  <img  align='right' src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif" alt="Img" height="200" width="200" style="border-radius:50%">
+</div>
 <h2 align="left">🛠 Technologies and Tools 🛠</h2>
 
 <!-- https://simpleicons.org/ -->
